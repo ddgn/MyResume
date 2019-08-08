@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyResume</string>
+
+    <string-array name="descriptionMainActivity">
+        <item>PERFIL</item>
+        <item>EDUCACION</item>
+        <item>EXPERIENCIA LABORAL</item>
+        <item>SOFT AND HARD SKILLS</item>
+        <item>CERTIFICACIONES</item>
+        <item>LENGUAJES</item>
+        <item>HOBBIES</item>
+    </string-array>
+
+    <string-array name="imagesMainActivity">
+        <item>@mipmap/perfil</item>
+        <item>@mipmap/escuela</item>
+        <item>@mipmap/trabajo</item>
+        <item>@mipmap/skill</item>
+        <item>@mipmap/certificado</item>
+        <item>@mipmap/lenguaje</item>
+        <item>@mipmap/hobbie</item>
+    </string-array>
+</resources>
